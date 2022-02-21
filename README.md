@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AleksievAleksandar
 - 👀 I’m interested in backend coding
-- 🌱 I’m currently learning to fly with C++
+- 🌱 I’m currently learning to fly above with C++
 - 📫 You can reach me at alexiev_alexander@abv.bg
 
 Also my professional experience includes software development with C/C++ in particular:
