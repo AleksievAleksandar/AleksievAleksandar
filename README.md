@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AleksievAleksandar
-- 👀 I’m interested in backend coding
-- 🌱 I’m currently learning to fly above with C++
-- 📫 You can reach me at alexiev_alexander@abv.bg
+- 👋 std::cout << "Hello World, I’m @AleksievAleksandar" << std::endl;
+- 👀 std::cout << "I’m interested in backend coding" << std::endl;
+- 🌱 std::cout << "I’m currently learning to fly above with C++" << std::endl;
+- 📫 std::cout << "You can reach me at alexiev_alexander@abv.bg" << std::endl;
 
 <!---
 AleksievAleksandar/AleksievAleksandar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
