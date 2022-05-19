@@ -5,11 +5,7 @@
 
  ![GitHub User's stars](https://img.shields.io/github/stars/AleksievAleksandar?style=social)
  
-<p align=”center”>
-<a href=”LinkedIn profile URL”>
-<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
-</a>
-</p>
+https://img.shields.io/badge/LinkedIn%20-blue?style=flat&logo=linkedin&labelColor=blue
  
 <!---
 AleksievAleksandar/AleksievAleksandar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
