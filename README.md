@@ -5,8 +5,6 @@
 
 ##
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandar-aleksiev/)
-  
-  [![Years Badge](https://badges.pufler.dev/years/AleksievAleksandar)](https://badges.pufler.dev)
 ##
  
  <p>
