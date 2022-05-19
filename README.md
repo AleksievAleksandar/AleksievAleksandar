@@ -3,7 +3,7 @@
 - 🌱 std::cout << "I’m currently learning to fly above with C++" << std::endl;
 - 📫 std::cout << "You can reach me at alexiev_alexander@abv.bg" << std::endl;
 
-![GitHub User's stars](https://img.shields.io/github/stars/AleksievAleksandar?style=social)
+  ![GitHub User's stars](https://img.shields.io/github/stars/AleksievAleksandar?style=social)
 
 <!---
 AleksievAleksandar/AleksievAleksandar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
