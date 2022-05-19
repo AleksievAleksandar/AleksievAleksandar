@@ -5,8 +5,8 @@
 
  ![GitHub User's stars](https://img.shields.io/github/stars/AleksievAleksandar?style=social)
  
- <p align=”center”>
-<a href=”[LinkedIn profile URL](https://www.linkedin.com/in/aleksandar-aleksiev)”>
+<p align=”center”>
+<a href=”LinkedIn profile URL”>
 <img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
 </p>
