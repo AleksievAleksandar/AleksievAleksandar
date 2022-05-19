@@ -4,6 +4,12 @@
 - 📫 std::cout << "You can reach me at alexiev_alexander@abv.bg" << std::endl;
 
  ![GitHub User's stars](https://img.shields.io/github/stars/AleksievAleksandar?style=social)
+ 
+<p align=”center”>
+<a href=”LinkedIn profile URL”>
+<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+</a>
+</p>
   
 <!---
 AleksievAleksandar/AleksievAleksandar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
