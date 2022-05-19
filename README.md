@@ -4,6 +4,7 @@
 - 📫 std::cout << "You can reach me at alexiev_alexander@abv.bg" << std::endl;
 
  ![GitHub User's stars](https://img.shields.io/github/stars/AleksievAleksandar?style=social)
+ 
  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandar-aleksiev/) 
  
  <!---
