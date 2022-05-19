@@ -1,9 +1,3 @@
-<p align=”center”>
-<a href=”LinkedIn profile URL”>
-<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
-</a>
-</p>
-
 - 👋 std::cout << "Hello World, I’m @AleksievAleksandar" << std::endl;
 - 👀 std::cout << "I’m interested in backend coding" << std::endl;
 - 🌱 std::cout << "I’m currently learning to fly above with C++" << std::endl;
