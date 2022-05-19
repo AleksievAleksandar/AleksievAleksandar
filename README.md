@@ -3,8 +3,11 @@
 - 🌱 std::cout << "I’m currently learning to fly above with C++" << std::endl;
 - 📫 std::cout << "You can reach me at alexiev_alexander@abv.bg" << std::endl;
 
- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandar-aleksiev/) 
- 
+##
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandar-aleksiev/)
+  
+  [![Years Badge](https://badges.pufler.dev/years/AleksievAleksandar)](https://badges.pufler.dev)
+##
  
  <p>
   <!-- <summary>:zap: GitHub Stats</summary> -->
