@@ -7,9 +7,6 @@
 ##
  
  <p>
-  <!-- <summary>:zap: GitHub Stats</summary> -->
-  <img height="160em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AleksievAleksandar&layout=compact&show_icons=true&bg_color=00000000&hide_border=false&text_color=FFFFFF&&count_private=true&include_all_commits=true" />
-
   <img height="160em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleksievAleksandar&langs_count=5&layout=compact&hide_border=false&bg_color=00000000&text_color=FFFFFF&&count_private=true&include_all_commits=true" />
 </p>
 
